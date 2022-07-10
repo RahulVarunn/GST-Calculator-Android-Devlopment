@@ -1,4 +1,4 @@
-# GST-Calculator-Android-Devlopment-
+# GST-Calculator : AndroidDevlopment
 
 It's an Gst calculator to calculate gst of any particular product (include oe remove). 
 
